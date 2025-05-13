@@ -3,5 +3,5 @@ bin/
 .classpath
 .settings/
 .project
-.mp4
-.doc
+*.mp4
+*.doc

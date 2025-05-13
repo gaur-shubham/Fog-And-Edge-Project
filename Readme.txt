@@ -18,6 +18,3 @@ run smartcarparking.java class for running the simulation successfully.
 Jdk 8 or later
 Eclispe IDE or IntelliJ IDE
 dependecies JAR files included in /jar folder (like jMetal JARs)
-
-### Github URL to public repository:
-https://github.com/SGaur-x22168044/carPrakingSimulation
